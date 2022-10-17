@@ -1,5 +1,5 @@
 # YouTube, Facebook, Twitter
-Utilized HTML and CSS to created three buttons:
+Utilized HTML and CSS to create three buttons:
 Youtube's "Subscribe" button, Facebook's "Join" button and Twitter's "Tweet" button.
 
 
